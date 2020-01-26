@@ -117,9 +117,12 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-arvr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-arvr.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-camera.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-camera.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-class0.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-class0.conf \
+    vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-e10-india.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-e10-india.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-extreme.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-extreme.conf \
+    vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-high.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-high.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-map.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-map.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-nolimits.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-nolimits.conf \
+    vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-phone.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-phone.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-pubgmhd.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-pubgmhd.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-sgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-sgame.conf \
     vendor/xiaomi/beryllium/proprietary/vendor/etc/thermal-engine-sdm845-tgame.conf:$(TARGET_COPY_OUT_VENDOR)/etc/thermal-engine-sdm845-tgame.conf \
